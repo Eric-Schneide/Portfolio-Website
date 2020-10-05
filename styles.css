@@ -1,0 +1,13 @@
+body{
+    font-family:serif;
+    background-color: darkgreen;
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+.inner-cover{
+    background-color: #331200;
+    color:ivory
+}
