@@ -23,8 +23,10 @@ main{
 p{
     text-indent: 40px;
     color: snow;
-    font-size:24px;
-    border:2px solid black
+    font-size:21px;
+    border:2px solid black;
+    text-align: justify;
+    padding:10px 20px;
 }
 h3{
     font-size: 32px;
@@ -33,5 +35,5 @@ h3{
     padding:10px 40px 40px 40px;
 }
 button{
-    background-color: tan;
+    background-color: rosybrown;
 }
