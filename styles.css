@@ -1,13 +1,34 @@
 body{
-    font-family:serif;
-    background-color: darkgreen;
-}
+    background-color: gray;
+    margin: auto;
+    color: ivory;
+    text-shadow: .1rem 0.05rem 0.01rem rgba(0, 0, 0, .5);
+    box-shadow: inset 0 10rem 500rem rgba(0, 0, 0, .5);
 
+}
 header{
-    background-color: cornflowerblue;
-}
+    margin: auto;
+    background-color: black;
+    padding: 25px;
 
-.inner-cover{
-    background-color: #331200;
-    color:ivory
+}
+nav{
+    padding: 10px;
+    font-size: 28px;
+
+}
+main{
+    padding:150px;
+}
+p{
+    text-indent: 40px;
+    color: snow;
+    font-size:24px;
+    border:2px solid black
+}
+h3{
+    font-size: 32px;
+}
+.projectslisting{
+    padding:10px 40px 40px 40px;
 }
