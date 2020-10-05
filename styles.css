@@ -18,12 +18,12 @@ nav{
 
 }
 main{
-    padding:150px;
+    padding:100px 150px;
 }
 p{
     text-indent: 40px;
     color: snow;
-    font-size:21px;
+    font-size:20px;
     border:2px solid black;
     text-align: justify;
     padding:10px 20px;
